@@ -1,0 +1,1 @@
+/usr/bin/c++.exe    -Wl,--enable-auto-import CMakeFiles/sample.dir/sample.cpp.o CMakeFiles/sample.dir/lilib.cpp.o CMakeFiles/sample.dir/Radius.cpp.o CMakeFiles/sample.dir/LongFloat.cpp.o CMakeFiles/sample.dir/LongInterval.cpp.o  -o sample.exe -Wl,--out-implib,libsample.dll.a -Wl,--major-image-version,0,--minor-image-version,0  
