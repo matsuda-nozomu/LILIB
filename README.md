@@ -1,2 +1,5 @@
 # LILIB
-Long Interval LIBrary
+- Long Interval LIBrary
+- 多倍長精度の精度保証付き数値計算を行うための、 C++ ライブラリです。
+- 10年以上前のソースコードなので、動作は保証できません。
+- 詳細は、 lilib.pdf をご覧ください。
